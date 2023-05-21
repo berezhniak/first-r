@@ -1,0 +1,3 @@
+﻿  Source.cpp
+Source.obj : error LNK2019: ссылка на неразрешенный внешний символ "void __cdecl AddContainer(void)" (?AddContainer@@YAXXZ) в функции main.
+C:\Users\user\first-r\tupu_dannuh\tupu_dannuh\x64\Debug\tupu_dannuh.exe : fatal error LNK1120: неразрешенных внешних элементов: 1
